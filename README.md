@@ -1,2 +1,2 @@
 # hello
-just one exampel
+just one example
